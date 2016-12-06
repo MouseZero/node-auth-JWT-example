@@ -3,7 +3,7 @@ This is a small test project to see how JWT authentication works.
 
 ## Get started
 - ```npm install```
-- create a ```/config.js```
+- create a ```/<project root>/config.js```
 
 ### config.js
 This config file is going to store the login information for MongoDB. Do not include this file in your git repository.
